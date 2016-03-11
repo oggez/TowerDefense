@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hej
+=======
+hejdär
+>>>>>>> origin/master
