@@ -1,0 +1,15 @@
+Feedback.
+* Sälja torn?
+* Info om tornen längst ner
+* Ingen förklaring på parametrar i koden
+* Inte javadoc på alla metoder
+* Thread.sleep(1)? 
+* Flera kommentarer så att koden blir tydligare.
+* Många if i vissa metoder.
+* Kravdokument, lite tomma rader här och där, svengelska?, klassdiagram otydligt asosiationer, 
+* Samma namn på försättsblad
+* Versionnummer på dokument?
+* Pausknapp? 
+
+*Referenser till dokumentgranskning, författaren får granska dokument.
+* 
